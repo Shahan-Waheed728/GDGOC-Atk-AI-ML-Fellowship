@@ -1,3 +1,3 @@
 # python program to print reverse of string 
 text = "Python-Programming"
-print(text[-1:-15])
+print(text[::-1])
